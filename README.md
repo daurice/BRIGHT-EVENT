@@ -1,3 +1,7 @@
 # BRIGHT-EVENT
 Andela Bootcamp
-Installation of a git bash is important.https://git-scm.com/download/gui/
+https://github.com/daurice/BRIGHT-EVENT/blob/master/design/index.html
+https://github.com/daurice/BRIGHT-EVENT/blob/master/design/background.jpg
+https://github.com/daurice/BRIGHT-EVENT/blob/master/design/login.html
+https://github.com/daurice/BRIGHT-EVENT/blob/master/design/main.css
+https://github.com/daurice/BRIGHT-EVENT/blob/master/design/signup.html
